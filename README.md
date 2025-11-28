@@ -1,0 +1,3 @@
+This project successfully developed and deployed a multi-class classification model to predict an individual's obesity level (NObeyesdad) based on 16 lifestyle and physical features.
+The solution is grounded in rigorous data science practices, utilizing a clean dataset of 2,087 samples. The pipeline encompassed cleaning, feature engineering, and the training of a Logistic Regression classifier. The key achievement is the operationalization of this model via a user-friendly Streamlit web application (app.py), ensuring that the entire preprocessing and prediction logic is preserved from the training environment.
+inthis dataset i had done cleaning and preprocessing deployed in streamlit...
